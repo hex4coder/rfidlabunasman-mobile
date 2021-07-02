@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095260029046",
+    "firebase_url": "https://rfid-lab-unasman-default-rtdb.firebaseio.com",
+    "project_id": "rfid-lab-unasman",
+    "storage_bucket": "rfid-lab-unasman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095260029046:android:208785fe4cbe1adae39f57",
+        "android_client_info": {
+          "package_name": "org.ua4ever.rfidlabunasman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095260029046-lbua2el9hvja29ndr4dhok6mo03ge3n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ua4ever.rfidlabunasman",
+            "certificate_hash": "a8801c6d2e8f8a55fa6c2272626273882f054408"
+          }
+        },
+        {
+          "client_id": "1095260029046-oj3ghvh4itdc2spktrbcq7gkq7sn66n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk68MQVc5aExDbpM5LMvLYaburT1SOaWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095260029046-oj3ghvh4itdc2spktrbcq7gkq7sn66n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
