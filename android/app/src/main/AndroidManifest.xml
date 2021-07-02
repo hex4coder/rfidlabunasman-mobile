@@ -1,9 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.ua4ever.rfidlabunasman">
 
+    <!-- permisi untuk akses internet -->
     <uses-permission android:name="android.permission.INTERNET"/>
+
+
    <application
-        android:label="rfidlabunasman"
+        android:label="RFID Lab Unasman Mobile"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
